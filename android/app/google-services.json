@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "196390645801",
+    "project_id": "learning-notifications-1ad41",
+    "storage_bucket": "learning-notifications-1ad41.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196390645801:android:729fea8b8b66967f7eec38",
+        "android_client_info": {
+          "package_name": "com.example.learning_notifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG6_gA8yc91jSUaa_HSB6JZE2cVBl1qM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
